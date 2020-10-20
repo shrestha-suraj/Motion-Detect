@@ -1,5 +1,8 @@
 # Motion-Detect
 
+## Demo Image
+<img src="./filtered-image-data.png"/>
+
 ## Requirements: Anaconda, Spyder (Python v2.7)
 
 ## Description:
